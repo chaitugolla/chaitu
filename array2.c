@@ -11,7 +11,7 @@ int main()
     }
     for(i=0;i<b;i++)
     {
-        printf("%d",a[i]);
+        printf(" after values:%d\n",a[i]);
     }
     return 0;
 }
